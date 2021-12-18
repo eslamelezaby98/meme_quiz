@@ -1,0 +1,4 @@
+#Sat Dec 18 18:21:05 EET 2021
+base.0=D\:\\Working\\My subprojects\\meme_quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
